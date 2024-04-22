@@ -1,5 +1,5 @@
 # Group 28
-## Movies recommendation system project
+## Movies recommendation system project 🎬
 
 ### Movie Input and Preferences
 Allow users to input movies they have watched along with their ratings. Users can also input their favorite genres, actors, or directors to customize their recommendations.
