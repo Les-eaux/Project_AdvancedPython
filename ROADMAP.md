@@ -6,10 +6,10 @@ A project from bioinformaticians students of the Universities of Bern and Fribou
 ✅ Create the GitHub repository
 
 ## Important dates
-📆 May 2  | Movie Input and Preferences
-📆 May 16 | Movie Recommandation Algorithm
-📆 May 23 | Data Visualization and User Trend Analysis
-📆 May 30 | Presentation of the project
+- 📆 May 2  - Movie Input and Preferences
+- 📆 May 16 - Movie Recommandation Algorithm
+- 📆 May 23 - Data Visualization and User Trend Analysis
+- 📆 May 30 - Presentation of the project
 
 ## Data collection
 - Collect movie data from public datasets
