@@ -1,3 +1,7 @@
+# Movies recommendation system project 🎬 (Name ?)
+First of all, we wanted to offer you a warm welcome to a project that is close to our hearts: (Name ?)
+A project from bioinformaticians students of the Universities of Bern and Fribourg : Léo, Oriane, Michael and Reda
+
 ## Data collection
 - Collect movie data from public datasets
 - Preprocess the data to clean any inconsistencies or missing values
