@@ -3,7 +3,7 @@
 Welcome on our repository! You are probably here because you struggle to find a movie to watch tonight, don't worry we are here to help! 🍿
 
 First of all, who is "we"? 
-[_We_](members.txt) are master students from UniBe and UniFr in Bioinformatics. 
+[_We_](member.txt) are master students from UniBe and UniFr in Bioinformatics. 
 For one of our lecutres, we need to do a Python project, and we decided to help _you_ to find the perfect movie to watch, based on your preferences. 
 
 ### Movie Input and Preferences
