@@ -5,7 +5,7 @@ A project from bioinformaticians students of the Universities of Bern and Fribou
 ## Already done
 ✅ Create the GitHub repository
 
-## Important dates
+## Important dates/ Deadlines
 - 📆 May 2  - Movie Input and Preferences
 - 📆 May 16 - Movie Recommandation Algorithm
 - 📆 May 23 - Data Visualization and User Trend Analysis
