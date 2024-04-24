@@ -9,3 +9,7 @@ Develop a basic recommendation algorithm that suggests new movies based on user 
 
 ### Data Visualization and User Trend Analysis
 Provide users with visualizations of their movie data, such as a breakdown of movies by genre, actor, or director. Allow users to analyze trends in their movie preferences and discover new content that aligns with their interests.
+
+### Link to our Roadmap : https://github.com/Les-eaux/Project_AdvancedPython/blob/main/ROADMAP.md
+Our roadmap is essential in the organization and placement of the various tasks that will be added as the project progresses.
+Feedback is welcome, it will be used to obtain external opinions in order to improve the implementation of the project.
