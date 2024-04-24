@@ -2,6 +2,15 @@
 First of all, we wanted to offer you a warm welcome to a project that is close to our hearts: (Name ?)
 A project from bioinformaticians students of the Universities of Bern and Fribourg : Léo, Michael, Oriane and Reda.
 
+## Already done
+✅ Create the GitHub repository
+
+## Important dates
+📆 May 2  | Movie Input and Preferences
+📆 May 16 | Movie Recommandation Algorithm
+📆 May 23 | Data Visualization and User Trend Analysis
+📆 May 30 | Presentation of the project
+
 ## Data collection
 - Collect movie data from public datasets
 - Preprocess the data to clean any inconsistencies or missing values
