@@ -1,5 +1,9 @@
 # Group 28
 ## Movies recommendation system project 🎬
+- What are we doing ? Developping a Movie Recommendation System
+- Who are we ? Master students at the UniBE and UniFR in Bioinformatics
+- Why are we doing this porject ? This project allows us to implement our knowledge of programming in Python acquired during these first two semesters of the master's degree.
+- For who ? This project will help any movie lover to find their best future movies to enjoy/entertain/analyze using their personal taste
 
 ### Movie Input and Preferences
 Allow users to input movies they have watched along with their ratings. Users can also input their favorite genres, actors, or directors to customize their recommendations.
