@@ -2,7 +2,7 @@
 First of all, we wanted to offer you a warm welcome to a project that is close to our hearts: (Name ?)
 A project from bioinformaticians students of the Universities of Bern and Fribourg : Léo, Michael, Oriane and Reda.
 
-## Already done
+## Already done 🍿
 ✅ Create the GitHub repository
 
 ## Important dates/ Deadlines
